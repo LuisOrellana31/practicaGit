@@ -18,6 +18,6 @@ public class Logica {
 
     public String metodoIntegrante2(){
 
-        return "integrante 2";
+        return "MODIFICADO POR WALTER BAU";
     }
 }
