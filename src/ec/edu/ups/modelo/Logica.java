@@ -18,6 +18,6 @@ public class Logica {
 
     public String metodoIntegrante2(){
 
-        retunr "integrante 2"
+        return "integrante 2";
     }
 }

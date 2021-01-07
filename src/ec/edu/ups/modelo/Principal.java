@@ -14,7 +14,8 @@ public class Principal {
 
  public static void main (String [] args){
             Logica log = new Logica();
-      
+            String mensaje = log.metodoIntegrante2();
+            System.out.println(mensaje);
             
 
     }
