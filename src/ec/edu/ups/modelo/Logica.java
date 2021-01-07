@@ -13,7 +13,7 @@ package ec.edu.ups.modelo;
 public class Logica {
     public String metodoIntegrante1(){
         
-        return "integrante 1";
+        return "Modificado por Luis ";
     }
 
     public String metodoIntegrante2(){
